@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b358f8a4-97e0-4953-ac6e-81b660eba3c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2qJ6bBJsWwfSriAq1e0r6bObbT1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/YfinanceFetch.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="YfinanceFetch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="StockProcessETL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Home\Documents\IherbShopingAPI\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YfinanceFetch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b358f8a4-97e0-4953-ac6e-81b660eba3c8" name="Default Changelist" comment="" />
+      <created>1734368399476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734368399476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1397" y="-905" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1734370129826">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1397" y="-905" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734370129826" />
+    <state x="1723" y="-805" key="FileChooserDialogImpl" timestamp="1734382833171">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1723" y="-805" key="FileChooserDialogImpl/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734382833171" />
+    <state width="1899" height="384" key="GridCell.Tab.0.bottom" timestamp="1734383388460">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.bottom/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734383388460" />
+    <state width="1899" height="384" key="GridCell.Tab.0.center" timestamp="1734383388459">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.center/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734383388459" />
+    <state width="1899" height="384" key="GridCell.Tab.0.left" timestamp="1734383388459">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.left/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734383388459" />
+    <state width="1899" height="384" key="GridCell.Tab.0.right" timestamp="1734383388460">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="384" key="GridCell.Tab.0.right/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734383388460" />
+    <state x="1444" y="-918" key="SettingsEditor" timestamp="1734381597684">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1444" y="-918" key="SettingsEditor/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734381597684" />
+    <state x="1639" y="-736" key="com.intellij.ide.util.TipDialog" timestamp="1734370090925">
+      <screen x="983" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1639" y="-736" key="com.intellij.ide.util.TipDialog/0.0.1536.824/983.-1080.1920.1040@983.-1080.1920.1040" timestamp="1734370090925" />
+  </component>
+</project>
