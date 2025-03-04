@@ -126,7 +126,7 @@ def main():
         cleaned_data = preprocess_data(all_data)
 
         # Save data to S3
-        save_to_s3(cleaned_data, 'finance-stock-interview', aws_access_key_id, aws_secret_access_key, endpoint_url)
+        save_to_s3(cleaned_data, 'finance-stock', aws_access_key_id, aws_secret_access_key, endpoint_url)
 
     except Exception as e:
         logger.error(f"Process failed: {e}")
